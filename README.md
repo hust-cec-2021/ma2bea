@@ -1,2 +1,5 @@
 # ma2bea
-Many-task Multi-Armed Bandit Evolutionary Algorithm
+Implementation of 
+```
+Many-task Multi-Armed Bandit Evolutionary Algorithm - CEC 2021
+```
